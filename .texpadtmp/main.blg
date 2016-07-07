@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: apalike.bst
+Database file #1: ../biblio.bib
+Repeated entry---line 238 of file ../biblio.bib
+ : @article{thom1974stabilite
+ :                           ,
+I'm skipping whatever remains of this entry
+You've used 11 entries,
+            1935 wiz_defined-function locations,
+            544 strings with 5411 characters,
+and the built_in function-call counts, 4123 in all, are:
+= -- 412
+> -- 122
+< -- 10
++ -- 46
+- -- 38
+* -- 328
+:= -- 706
+add.period$ -- 33
+call.type$ -- 11
+change.case$ -- 72
+chr.to.int$ -- 11
+cite$ -- 11
+duplicate$ -- 173
+empty$ -- 313
+format.name$ -- 53
+if$ -- 816
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 13
+newline$ -- 58
+num.names$ -- 33
+pop$ -- 62
+preamble$ -- 1
+purify$ -- 74
+quote$ -- 0
+skip$ -- 138
+stack$ -- 0
+substring$ -- 315
+swap$ -- 27
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 62
+warning$ -- 0
+while$ -- 39
+width$ -- 0
+write$ -- 143
+(There was 1 error message)
